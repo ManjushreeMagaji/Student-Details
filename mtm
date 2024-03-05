@@ -1,0 +1,9 @@
+Welcome to Jit Hub
+C Program
+#include<stdio.h>
+main()
+{
+char name[10];
+printf("Enter your name");
+scanf("%s", name);
+}
